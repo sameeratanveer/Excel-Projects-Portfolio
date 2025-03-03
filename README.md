@@ -27,6 +27,8 @@ Project List: Find links to individual projects below.
 Excel Files: Dive into the actual Excel files, complete with formulas, VBA scripts, and visualizations.
 
 ## Project List
+1. ECOMMERCE SALES ANALYSIS DASHBOARD
+   
 
 ## Let’s Connect!
 Feel free to reach out for collaboration or discussion:
