@@ -32,10 +32,12 @@ Interactive Dashboard: Filters and slicers for years, regions, and segments were
 1. Growth trends show fluctuations in sales and profits year-over-year, with certain years demonstrating stronger growth than others.
 #### 3. Category-wise Profit:
 Some categories are significantly more profitable than others, indicating opportunities for focused marketing or resource allocation.
+
 #### 4. Sales Share by Category:
 A large proportion of sales come from specific categories, showing where the business should focus its efforts for future growth.
 #### 5. Regional Insights:
 Certain states or regions consistently outperform others in terms of sales and profit, highlighting key markets for further investment.
+
 #### 6. Top 5 Subcategories by Sales:
 These top subcategories generate the most sales and should be prioritized in future product offerings and inventory management.
 
@@ -43,8 +45,12 @@ These top subcategories generate the most sales and should be prioritized in fut
 1. Profit Margin Optimization: The profit margin of 12.47% could be improved by analyzing low-performing categories or regions and focusing on improving operational efficiency or adjusting pricing strategies.
 
 2. Focus on High-Performing Categories: Categories that are performing well should be the focus of marketing and sales efforts. Consider increasing the range of products within these categories.
+   
+![Alt text](category_wise_profit.png)
 
-3. Regional Sales Strategy: Invest more resources into high-performing regions and analyze the reasons for underperformance in other regions. Tailored marketing campaigns could help drive sales in these areas.
+4. Regional Sales Strategy: Invest more resources into high-performing regions and analyze the reasons for underperformance in other regions. Tailored marketing campaigns could help drive sales in these areas.
+   
+![Alt text](region_best.png)
 
-4. Subcategory Focus: The top-performing subcategories by sales should be closely monitored and prioritized for future product development and stock management. These subcategories can also be a focus for targeted promotions.
+6. Subcategory Focus: The top-performing subcategories by sales should be closely monitored and prioritized for future product development and stock management. These subcategories can also be a focus for targeted promotions.
 
