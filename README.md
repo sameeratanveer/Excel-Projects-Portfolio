@@ -28,7 +28,7 @@ Excel Files: Dive into the actual Excel files, complete with formulas, VBA scrip
 
 ## Project List
 1. ECOMMERCE SALES ANALYSIS DASHBOARD
-   
+2. IPL DATA ANALYSIS DASHBOARD
 
 ## Let’s Connect!
 Feel free to reach out for collaboration or discussion:
