@@ -47,8 +47,9 @@ Microsoft Excel for data cleaning, analysis, and dashboard visualization.
 → Displays players with the most Man of the Match awards.
 
 → Helps identify consistent top performers across IPL seasons.
-![Alt text](Dashboard.png)
+
 ## Insights:
+![Alt text](Dashboard.png)
 1. Teams choosing to field first tend to have a higher winning percentage.
 2. Chennai Super Kings and Mumbai Indians are the most successful teams based on title count.
 3. CH Gayle leads as the top performer with the most Man of the Match awards.
