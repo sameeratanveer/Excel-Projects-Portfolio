@@ -18,7 +18,8 @@ Microsoft Excel for data cleaning, analysis, and dashboard visualization.
 2. Winner: Displays the winning team of the selected season
 3. Runner Up: Displays the runner-up team of the selected season
 4. Player of the Series: Highlights the standout player for the selected season
-
+   
+![Alt text](KPI.png)
 
 ## Dashboard Interactivity:
 → The dashboard includes a year-wise filter (2008–2018).
