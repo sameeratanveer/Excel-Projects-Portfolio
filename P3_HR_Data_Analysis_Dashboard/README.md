@@ -1,4 +1,4 @@
-# HR Attrition Analysis Dashboard Documentation
+# HR Attrition Analysis Dashboard 
 ## Project Title: HR Attrition Analysis for Workforce Insights and Retention Strategy
 ## Objective:
 To analyze employee attrition patterns, identify high-risk segments, and provide actionable insights to help HR reduce turnover and improve employee satisfaction.
