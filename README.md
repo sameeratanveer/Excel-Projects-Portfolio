@@ -29,6 +29,7 @@ Excel Files: Dive into the actual Excel files, complete with formulas, VBA scrip
 ## Project List
 1. ECOMMERCE SALES ANALYSIS DASHBOARD [Link Text](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P1_ECOMMERCE_SALES_ANALYSIS)
 2. IPL DATA ANALYSIS DASHBOARD [Link Text](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P2_IPL_Data_Analysis_Dashboard)
+3. HR DATA ANALYSIS DASHBOARD [Link Text](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P3_HR_Data_Analysis_Dashboard)
 
 ## Let’s Connect!
 Feel free to reach out for collaboration or discussion:
