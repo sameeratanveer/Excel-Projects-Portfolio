@@ -4,8 +4,11 @@
 The goal of this project is to analyze IPL data from 2008 to 2018 to uncover insights about team performance, match outcomes, and key players. 
 The dashboard provides a visual summary of major statistics and trends across IPL seasons.
 
+![Alt text](Dashboard.png)
+
 ## Data Source:
 Dataset collected from Kaggle (covering IPL matches from 2008 to 2018).
+[Link text](https://www.kaggle.com/datasets/amberjain811/ipl-dataset-20082018)
 
 ## Tools Used: 
 Microsoft Excel for data cleaning, analysis, and dashboard visualization.
@@ -15,6 +18,7 @@ Microsoft Excel for data cleaning, analysis, and dashboard visualization.
 2. Winner: Displays the winning team of the selected season
 3. Runner Up: Displays the runner-up team of the selected season
 4. Player of the Series: Highlights the standout player for the selected season
+
 
 ## Dashboard Interactivity:
 → The dashboard includes a year-wise filter (2008–2018).
@@ -42,6 +46,7 @@ Microsoft Excel for data cleaning, analysis, and dashboard visualization.
 → Displays players with the most Man of the Match awards.
 
 → Helps identify consistent top performers across IPL seasons.
+![Alt text](Dashboard.png)
 ## Insights:
 1. Teams choosing to field first tend to have a higher winning percentage.
 2. Chennai Super Kings and Mumbai Indians are the most successful teams based on title count.
