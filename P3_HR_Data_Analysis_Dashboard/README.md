@@ -2,6 +2,7 @@
 ## Project Title: HR Attrition Analysis for Workforce Insights and Retention Strategy
 ## Objective:
 To analyze employee attrition patterns, identify high-risk segments, and provide actionable insights to help HR reduce turnover and improve employee satisfaction.
+![Alt Text](Dashboard.png)
 ## Data Source:
 Internal HR dataset containing employee demographics, education, job roles, departments, and attrition details.
 ## Tools Used:
@@ -66,8 +67,9 @@ Top roles facing attrition:
 
 → Married employees (84) and Divorced (33) follow.
 
-## ❤️ Recommendation: 
-Offer work-life balance programs, mentorship, and career growth paths for early-career employees.
+❤️ Recommendation: Offer work-life balance programs, mentorship, and career growth paths for early-career employees.
+
+## Strategic Insights & Decision-Making Support:
 
 | Challenge                     | Recommendation | 
 |-------------------------------|-----------------|
