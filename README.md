@@ -27,7 +27,7 @@ Project List: Find links to individual projects below.
 Excel Files: Dive into the actual Excel files, complete with formulas, VBA scripts, and visualizations.
 
 ## Project List
-1. ECOMMERCE SALES ANALYSIS DASHBOARD [Link Text](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P1_ECOMMERCE_SALES_ANALYSIS)
+1. ECOMMERCE SALES ANALYSIS DASHBOARD [Link Text](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P1_ECOMMERCE_SALES_ANALYSIS) ![Alt Text](https://github.com/sameeratanveer/Excel-Projects-Portfolio/blob/main/P1_ECOMMERCE_SALES_ANALYSIS/Screenshot%202025-03-04%20004235.png)
 2. IPL DATA ANALYSIS DASHBOARD [Link Text](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P2_IPL_Data_Analysis_Dashboard)
 3. HR DATA ANALYSIS DASHBOARD [Link Text](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P3_HR_Data_Analysis_Dashboard)
 
